@@ -1,0 +1,5 @@
+# FastAPI defines endpoints, validates inputs, and generates API documentation.
+fastapi==0.115.12
+
+# Uvicorn runs the server that receives HTTP requests.
+uvicorn==0.34.2
